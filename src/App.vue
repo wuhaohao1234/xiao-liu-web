@@ -16,6 +16,12 @@
             排盘
           </router-link>
           <router-link 
+            to="/calendar" 
+            class="hover:text-indigo-200"
+          >
+            诸神圣诞
+          </router-link>
+          <router-link 
             to="/about" 
             class="hover:text-indigo-200"
           >
